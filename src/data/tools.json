@@ -1,0 +1,347 @@
+{
+  "tools": [
+    {
+      "slug": "contaazul",
+      "name": "ContaAzul",
+      "category": "accounting",
+      "description": "Plataforma integrada de gestión financiera y contable para pequeñas y medianas empresas. Ofrece control de flujo de caja, facturas electrónicas e integración con bancos.",
+      "pricing_model": "freemium",
+      "starting_price_brl": 99,
+      "free_trial": true,
+      "highlights": [
+        "Integración con bancos españoles/latinoamericanos",
+        "Emisión de factura electrónica automática",
+        "Dashboard financiero en tiempo real"
+      ],
+      "best_for": "Pequeñas y medianas empresas que necesitan gestión financiera y fiscal integrada",
+      "affiliate_url": "#",
+      "website_url": "https://www.contaazul.com",
+      "rating": 4.5,
+      "integrations": [
+        "Omie",
+        "Bling",
+        "RD Station"
+      ]
+    },
+    {
+      "slug": "omie",
+      "name": "Omie",
+      "category": "erp",
+      "description": "ERP en la nube enfocado en gestión integrada de finanzas, ventas y operaciones. Ofrece control de inventario, pedidos e integración con marketplaces.",
+      "pricing_model": "freemium",
+      "starting_price_brl": 0,
+      "free_trial": true,
+      "highlights": [
+        "Integración con marketplaces (Mercado Libre, Amazon)",
+        "Gestión de inventario y pedidos",
+        "API robusta para integraciones"
+      ],
+      "best_for": "E-commerce y pequeñas tiendas que necesitan gestionar múltiples canales",
+      "affiliate_url": "#",
+      "website_url": "https://www.omie.com.br",
+      "rating": 4.3,
+      "integrations": [
+        "ContaAzul",
+        "RD Station",
+        "Asana"
+      ]
+    },
+    {
+      "slug": "bling",
+      "name": "Bling",
+      "category": "ecommerce",
+      "description": "Plataforma de automatización para gestión de pedidos, facturas e inventario. Se integra con diversos marketplaces y plataformas de e-commerce.",
+      "pricing_model": "paid",
+      "starting_price_brl": 29.9,
+      "free_trial": true,
+      "highlights": [
+        "Gestión integrada de múltiples canales de venta",
+        "Automatización de facturación electrónica",
+        "API integrada"
+      ],
+      "best_for": "Comercios y e-commerce con múltiples canales de venta",
+      "affiliate_url": "#",
+      "website_url": "https://www.bling.com.br",
+      "rating": 4.2,
+      "integrations": [
+        "Omie",
+        "ContaAzul",
+        "Vtex"
+      ]
+    },
+    {
+      "slug": "rd-station",
+      "name": "RD Station",
+      "category": "marketing",
+      "description": "Plataforma de marketing automation y CRM enfocada en B2B. Ofrece automatización de email, lead scoring e integración con ventas.",
+      "pricing_model": "paid",
+      "starting_price_brl": 79,
+      "free_trial": true,
+      "highlights": [
+        "Automatización de marketing en español",
+        "Lead scoring inteligente",
+        "CRM integrado con pipeline de ventas"
+      ],
+      "best_for": "Empresas B2B con equipo de marketing enfocado en generación de leads",
+      "affiliate_url": "#",
+      "website_url": "https://www.rdstation.com",
+      "rating": 4.6,
+      "integrations": [
+        "Pipedrive",
+        "Slack",
+        "Google Workspace"
+      ]
+    },
+    {
+      "slug": "pipedrive",
+      "name": "Pipedrive",
+      "category": "crm",
+      "description": "CRM de ventas visual e intuitivo con pipeline personalizable. Ideal para equipos comerciales que quieren simplicidad y eficiencia.",
+      "pricing_model": "paid",
+      "starting_price_brl": 45,
+      "free_trial": true,
+      "highlights": [
+        "Pipeline visual arrastrar y soltar",
+        "Automatización de tareas repetitivas",
+        "Informes y dashboard personalizables"
+      ],
+      "best_for": "Equipos de ventas que buscan simplicidad y seguimiento visual del pipeline",
+      "affiliate_url": "#",
+      "website_url": "https://www.pipedrive.com",
+      "rating": 4.5,
+      "integrations": [
+        "RD Station",
+        "Slack",
+        "Google Workspace"
+      ]
+    },
+    {
+      "slug": "hubspot-pt",
+      "name": "HubSpot",
+      "category": "crm",
+      "description": "Plataforma completa de CRM, marketing, ventas y servicio al cliente. Versión gratuita robusta con funcionalidades esenciales para empezar.",
+      "pricing_model": "freemium",
+      "starting_price_brl": 0,
+      "free_trial": true,
+      "highlights": [
+        "CRM gratuito con funcionalidades completas",
+        "Marketing por email y automatización",
+        "Hub de ventas y servicio integrados"
+      ],
+      "best_for": "Startups y empresas en crecimiento que quieren un CRM completo con opción gratuita",
+      "affiliate_url": "#",
+      "website_url": "https://www.hubspot.com/pt",
+      "rating": 4.6,
+      "integrations": [
+        "Slack",
+        "Google Workspace",
+        "Calendly"
+      ]
+    },
+    {
+      "slug": "asana",
+      "name": "Asana",
+      "category": "project-management",
+      "description": "Herramienta de gestión de proyectos y tareas con múltiples vistas (lista, tablero, calendario, timeline). Ideal para equipos que necesitan coordinar trabajo complejo.",
+      "pricing_model": "freemium",
+      "starting_price_brl": 0,
+      "free_trial": true,
+      "highlights": [
+        "Múltiples vistas: lista, tablero, timeline, calendario",
+        "Automatización de flujos de trabajo",
+        "Integración con 200+ aplicaciones"
+      ],
+      "best_for": "Equipos que gestionan proyectos complejos con múltiples dependencias",
+      "affiliate_url": "#",
+      "website_url": "https://www.asana.com",
+      "rating": 4.4,
+      "integrations": [
+        "Slack",
+        "Google Drive",
+        "Zapier"
+      ]
+    },
+    {
+      "slug": "monday-com",
+      "name": "Monday.com",
+      "category": "project-management",
+      "description": "Plataforma de gestión de trabajo visual y flexible. Permite crear tableros personalizados para cualquier tipo de flujo de trabajo.",
+      "pricing_model": "paid",
+      "starting_price_brl": 49,
+      "free_trial": true,
+      "highlights": [
+        "Tableros visuales altamente personalizables",
+        "Automatizaciones sin código",
+        "Vistas de Gantt, calendario y Kanban"
+      ],
+      "best_for": "Equipos que necesitan flexibilidad total en la gestión visual de proyectos",
+      "affiliate_url": "#",
+      "website_url": "https://www.monday.com",
+      "rating": 4.5,
+      "integrations": [
+        "Slack",
+        "GitHub",
+        "Jira"
+      ]
+    },
+    {
+      "slug": "trello",
+      "name": "Trello",
+      "category": "project-management",
+      "description": "Herramienta de gestión de proyectos basada en tableros Kanban. Simple, visual y fácil de usar para equipos pequeños y proyectos ágiles.",
+      "pricing_model": "freemium",
+      "starting_price_brl": 0,
+      "free_trial": true,
+      "highlights": [
+        "Tableros Kanban intuitivos",
+        "Power-Ups para extender funcionalidades",
+        "Colaboración en tiempo real"
+      ],
+      "best_for": "Equipos pequeños y proyectos que necesitan gestión visual simple y rápida",
+      "affiliate_url": "#",
+      "website_url": "https://www.trello.com",
+      "rating": 4.2,
+      "integrations": [
+        "Slack",
+        "Google Drive"
+      ]
+    },
+    {
+      "slug": "notion",
+      "name": "Notion",
+      "category": "project-management",
+      "description": "Espacio de trabajo todo en uno: documentos, bases de datos, wikis, notas y gestión de proyectos. Extremadamente flexible y personalizable.",
+      "pricing_model": "freemium",
+      "starting_price_brl": 0,
+      "free_trial": true,
+      "highlights": [
+        "Documentos, wikis y bases de datos en una sola herramienta",
+        "Plantillas personalizables para cualquier flujo",
+        "Colaboración en tiempo real"
+      ],
+      "best_for": "Equipos que quieren consolidar documentación, notas y gestión de proyectos en un solo lugar",
+      "affiliate_url": "#",
+      "website_url": "https://www.notion.so",
+      "rating": 4.3,
+      "integrations": [
+        "Slack",
+        "Google Drive",
+        "Zapier"
+      ]
+    },
+    {
+      "slug": "clickup",
+      "name": "ClickUp",
+      "category": "project-management",
+      "description": "Plataforma de productividad todo en uno que reemplaza múltiples herramientas. Gestiona tareas, documentos, objetivos y tiempo en un solo lugar.",
+      "pricing_model": "freemium",
+      "starting_price_brl": 0,
+      "free_trial": true,
+      "highlights": [
+        "Gestión de tareas, docs, metas y tiempo integrados",
+        "Más de 15 vistas personalizables",
+        "Automatizaciones avanzadas"
+      ],
+      "best_for": "Equipos que buscan una solución completa que reemplace múltiples herramientas",
+      "affiliate_url": "#",
+      "website_url": "https://www.clickup.com",
+      "rating": 4.4,
+      "integrations": [
+        "Slack",
+        "GitHub",
+        "Google Drive"
+      ]
+    },
+    {
+      "slug": "freshdesk",
+      "name": "Freshdesk",
+      "category": "support",
+      "description": "Software de helpdesk y atención al cliente omnicanal. Gestiona tickets de email, chat, teléfono y redes sociales en una sola plataforma.",
+      "pricing_model": "paid",
+      "starting_price_brl": 19,
+      "free_trial": true,
+      "highlights": [
+        "Atención omnicanal: email, chat, teléfono, redes sociales",
+        "Base de conocimiento y portal de autoservicio",
+        "Automatización de tickets y SLA"
+      ],
+      "best_for": "Equipos de soporte que necesitan gestionar múltiples canales de atención al cliente",
+      "affiliate_url": "#",
+      "website_url": "https://www.freshdesk.com",
+      "rating": 4.3,
+      "integrations": [
+        "Slack",
+        "Zapier",
+        "Jira"
+      ]
+    },
+    {
+      "slug": "zendesk",
+      "name": "Zendesk",
+      "category": "support",
+      "description": "Plataforma completa de servicio al cliente con ticketing, chat en vivo, centro de ayuda y análisis. Escala desde startups hasta empresas enterprise.",
+      "pricing_model": "paid",
+      "starting_price_brl": 35,
+      "free_trial": true,
+      "highlights": [
+        "Sistema de ticketing robusto y escalable",
+        "Chat en vivo y mensajería integrada",
+        "Analíticas avanzadas y reporting"
+      ],
+      "best_for": "Empresas que buscan una solución de servicio al cliente escalable y completa",
+      "affiliate_url": "#",
+      "website_url": "https://www.zendesk.com",
+      "rating": 4.4,
+      "integrations": [
+        "Slack",
+        "Salesforce",
+        "Jira"
+      ]
+    },
+    {
+      "slug": "nuvemshop",
+      "name": "Nuvemshop",
+      "category": "ecommerce",
+      "description": "Plataforma de e-commerce líder para crear tiendas online. Ofrece integración con pagos, envíos y marketplaces con soporte local.",
+      "pricing_model": "paid",
+      "starting_price_brl": 29,
+      "free_trial": true,
+      "highlights": [
+        "Tienda online lista en minutos",
+        "Integración con múltiples pasarelas de pago",
+        "Gestión de productos, pedidos y envíos"
+      ],
+      "best_for": "Emprendedores y pymes que quieren crear su tienda online rápidamente",
+      "affiliate_url": "#",
+      "website_url": "https://www.nuvemshop.com.br",
+      "rating": 4.3,
+      "integrations": [
+        "Omie",
+        "Mercado Pago"
+      ]
+    },
+    {
+      "slug": "asaas",
+      "name": "Asaas",
+      "category": "invoicing",
+      "description": "Plataforma de gestión financiera y cobranza recurrente. Automatiza facturación, cobros por Pix, tarjeta y boleto, con conciliación bancaria.",
+      "pricing_model": "paid",
+      "starting_price_brl": 0,
+      "free_trial": true,
+      "highlights": [
+        "Cobranza recurrente automatizada",
+        "Múltiples medios de pago integrados",
+        "Gestión financiera y conciliación bancaria"
+      ],
+      "best_for": "Empresas que necesitan automatizar cobranza recurrente y gestión financiera",
+      "affiliate_url": "#",
+      "website_url": "https://www.asaas.com",
+      "rating": 4.6,
+      "integrations": [
+        "Omie",
+        "RD Station",
+        "Zapier"
+      ]
+    }
+  ]
+}

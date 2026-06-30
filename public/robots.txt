@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /[
+
+Sitemap: https://compararsoftware.com/sitemap.xml
+
+User-agent: AdsBot-Google
+Allow: /
